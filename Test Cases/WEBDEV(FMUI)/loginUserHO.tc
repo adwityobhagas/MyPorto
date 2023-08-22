@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan login meggunakan UserHO</description>
+   <name>loginUserHO</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7980ca3-4886-47a8-a071-10ccf4241d1d</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d46f6987-152e-46b6-a769-5bfdccb785dd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d46f6987-152e-46b6-a769-5bfdccb785dd</id>
+      <masked>false</masked>
+      <name>USER_CODE</name>
+   </variable>
+</TestCaseEntity>

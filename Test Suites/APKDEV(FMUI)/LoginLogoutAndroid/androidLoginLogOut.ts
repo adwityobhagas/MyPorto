@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>androidLoginLogOut</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>0</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>fbf9ab0f-c28f-4209-a6b3-91d68158ce70</testSuiteGuid>
+   <testCaseLink>
+      <guid>2caa21ff-bb1d-4a2e-865a-6f1a43d478d7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/APKDEV(FMUI)/androidLogin(DEV)</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b0053b3f-2a82-4f18-b5e2-e9cdc5b6416c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>bf56e773-701e-4761-8e31-c5a73137edb9</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5f22eeb5-60ef-45d5-9f9c-93f78593bd54</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/APKDEV(FMUI)/androidLogout</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>69047673-1056-4df2-b7d0-1944ca8c2e55</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-1</value>
+         </iterationEntity>
+         <testDataId>Data Files/MASTER_USER</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>69047673-1056-4df2-b7d0-1944ca8c2e55</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>USER_NAME</value>
+         <variableId>3ce48cd4-a2e7-432b-b896-6f1a3c9da6b3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>69047673-1056-4df2-b7d0-1944ca8c2e55</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>USER_PASSWORD</value>
+         <variableId>86e39668-e733-486a-9325-129d13f0868f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description>Username &amp; Password</description>
+   <name>MASTER_USER</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator>COMMA</csvSeperator>
+   <dataFileGUID>82af9293-e86e-45ac-a5e4-239e5548c4e8</dataFileGUID>
+   <dataSourceUrl>C:\Adwityo\1-My_Work\Sprint-4\Web\MASTER_USER_2023_07_11_14_27.csv</dataSourceUrl>
+   <driver>CSV</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

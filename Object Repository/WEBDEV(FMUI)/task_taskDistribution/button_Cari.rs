@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cari</name>
+   <tag></tag>
+   <elementGuidId>2a023861-0fee-4f64-a0e4-5566bac2d21b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-fif.toto.form-control</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6189c1fb-99fc-4a26-9f92-9bb114b21479</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>1d6ebe7d-3592-4839-b2d6-af220cd05ef1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-fif toto form-control</value>
+      <webElementGuid>95e172fe-cefc-4708-b59e-c39090a3b797</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Cari </value>
+      <webElementGuid>d1e13c28-58e3-4ac8-a3a8-28602d22ace0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/app-root[1]/mk-layout-wrapper[@class=&quot;skin-blue sidebar-mini&quot;]/div[@class=&quot;wrapper overflow&quot;]/mk-layout-content[1]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;content-inner&quot;]/section[@class=&quot;content&quot;]/app-zero-config[1]/div[1]/form[@class=&quot;ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-12 col-md-2&quot;]/div[@class=&quot;form-group&quot;]/button[@class=&quot;btn btn-fif toto form-control&quot;]</value>
+      <webElementGuid>62f1ad19-56ab-4d76-9cd3-51da4816a55a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>27129f97-a8a3-447f-a3c0-238d27bec751</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PJ TEST TIGA BELAS MARET'])[1]/following::button[1]</value>
+      <webElementGuid>c6b07993-319c-4cca-8f04-1dec86948eef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Profcol to Distribute'])[1]/following::button[1]</value>
+      <webElementGuid>4c2db505-814a-4f37-acb1-df03aff882ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Name'])[1]/preceding::button[1]</value>
+      <webElementGuid>638e0075-a535-4b9a-9d80-c05d910f9a21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cycle'])[1]/preceding::button[1]</value>
+      <webElementGuid>38083dfd-6263-4bec-929f-c6e35811e869</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cari']/parent::*</value>
+      <webElementGuid>cdfeca40-cdf6-4564-a737-f20d86ce6f3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>92d96bf8-47d5-4c02-ac12-a15eb2abcd0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = ' Cari ' or . = ' Cari ')]</value>
+      <webElementGuid>3ea126fe-ba2d-4f8a-8168-cfa2b7bcbaaf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

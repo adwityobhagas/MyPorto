@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_PJ TEST TIGA BELAS MARET</name>
+   <tag></tag>
+   <elementGuidId>f30e4070-9908-488a-950f-aea7eebe2ead</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='abde06f2ad75-0']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-option-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2265313a-f323-4723-b7e0-765b2acd1cd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-option-label</value>
+      <webElementGuid>b43ff58a-a0e5-411f-8058-be4db19c325b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PJ TEST TIGA BELAS MARET</value>
+      <webElementGuid>d2346f4e-1013-4e01-b3b4-56c9765ffab7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;abde06f2ad75-0&quot;)/span[@class=&quot;ng-option-label&quot;]</value>
+      <webElementGuid>e349127d-1009-4d11-ac31-724cc8f501a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='abde06f2ad75-0']/span</value>
+      <webElementGuid>ef75b40c-e261-4118-aa68-5272a5998519</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Profcol to Distribute'])[1]/following::span[7]</value>
+      <webElementGuid>44696e57-d106-4f89-ace0-62da43c2d2bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST 13 MARET 2023 EDIT FIFAPPS EDIT'])[1]/following::span[11]</value>
+      <webElementGuid>4be1c232-4f71-4360-8264-06220b58ff8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEST ANGGOTA TUJUH BELAS MARET'])[1]/preceding::span[1]</value>
+      <webElementGuid>5154dbcd-a62d-45a3-b651-ea1758b2fa72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SD'])[1]/preceding::span[2]</value>
+      <webElementGuid>c0db6a69-df35-4b9f-a2ae-8453922d87b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PJ TEST TIGA BELAS MARET']/parent::*</value>
+      <webElementGuid>edf120ac-3d9c-4429-af27-1ac9e7c386e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span</value>
+      <webElementGuid>09a08fb1-ba7a-4790-a719-4ee67520c6fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'PJ TEST TIGA BELAS MARET' or . = 'PJ TEST TIGA BELAS MARET')]</value>
+      <webElementGuid>3fd61372-70d7-4088-aa3d-513f642765ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

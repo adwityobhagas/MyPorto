@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Purchase Order</name>
+   <tag></tag>
+   <elementGuidId>016a273d-b267-4cac-a894-4521e35d84d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='hRHPnu0']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#hRHPnu0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7ea312f6-b892-4d31-a3a8-87299f70a3c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>hRHPnu0</value>
+      <webElementGuid>23b7f943-7833-429e-81c7-1a9d53500616</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-href z-a</value>
+      <webElementGuid>245f7a62-a27d-4932-850d-30135543fcb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Manage Purchase Orders</value>
+      <webElementGuid>e7a173de-8f22-4a4d-bedf-bc813ab1ba75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:;</value>
+      <webElementGuid>55eceb00-33e4-4700-a315-e18214e3107f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Purchase Order</value>
+      <webElementGuid>c5a4bd05-2605-49f4-bb61-baa9a6e700e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hRHPnu0&quot;)</value>
+      <webElementGuid>cd62d632-0ce2-4824-855f-7a846943a1d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='hRHPnu0']</value>
+      <webElementGuid>a7bab951-d2fe-4a28-883f-0b46ab3d55b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hRHPnu0-chdex']/a</value>
+      <webElementGuid>9bef2191-0112-4b22-be88-c991be26bc90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Purchase Order')]</value>
+      <webElementGuid>d8778465-bcfd-41dc-9a71-e58938e08350</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Partner'])[2]/following::a[2]</value>
+      <webElementGuid>7bede383-9c0c-4432-bd9a-bfab871944a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Favourites'])[1]/following::a[3]</value>
+      <webElementGuid>754df52b-3b1e-4f7d-b85d-47bcd9fe5725</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penerimaan Barang'])[1]/preceding::a[2]</value>
+      <webElementGuid>bb330c90-0ddf-40e1-acab-c50a9f3dc2ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product'])[1]/preceding::a[4]</value>
+      <webElementGuid>6cbfe3a9-3886-40d9-bc9d-eb3c8ec11b33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Purchase Order']/parent::*</value>
+      <webElementGuid>4b1f8161-ce3b-4417-adad-c0e5401069f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:;')])[2]</value>
+      <webElementGuid>5890db3f-2c46-4718-bf1c-aae18cb8e289</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a</value>
+      <webElementGuid>a2167a6a-f563-40d3-9839-7ba174b9b94f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'hRHPnu0' and @title = 'Manage Purchase Orders' and @href = 'javascript:;' and (text() = 'Purchase Order' or . = 'Purchase Order')]</value>
+      <webElementGuid>96cba3d3-e968-4b05-b07e-688dc30a857e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

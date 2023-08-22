@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Melakukan Sync Task</description>
+   <name>PenugasanSyncTask</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ea2ba819-223c-4765-bfe8-6efd0af4a47e</testCaseGuid>
+</TestCaseEntity>

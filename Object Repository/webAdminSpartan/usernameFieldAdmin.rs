@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>usernameFieldAdmin</name>
+   <tag></tag>
+   <elementGuidId>6d486cff-2002-40fd-a20f-3b193ace6e70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@placeholder='Username']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@placeholder='Username']</value>
+      <webElementGuid>22373c99-577a-401b-9437-7123e8fc27fb</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

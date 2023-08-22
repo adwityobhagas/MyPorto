@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>login_logout-UserInternal</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>120</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>a1d5186e-2994-4e52-b163-68ee32f5da8d</testSuiteGuid>
+   <testCaseLink>
+      <guid>b3018e63-2e7b-416e-a154-00b56e5758ac</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>'15958'</defaultValue>
+         <description></description>
+         <id>d46f6987-152e-46b6-a769-5bfdccb785dd</id>
+         <masked>false</masked>
+         <name>USER_CODE</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/WEBDEV(FMUI)/loginUserHO</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>f1b07750-13da-4233-b25b-836a1cb63e7b</id>
+         <iterationEntity>
+            <iterationType>RANGE</iterationType>
+            <value>1-2</value>
+         </iterationEntity>
+         <testDataId>Data Files/USER_INTERNAL</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>f1b07750-13da-4233-b25b-836a1cb63e7b</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>USER_CODE</value>
+         <variableId>d46f6987-152e-46b6-a769-5bfdccb785dd</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
